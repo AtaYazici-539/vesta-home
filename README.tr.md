@@ -2,7 +2,7 @@
 
 Yerel çalışmayı esas alan akıllı ev ve bina yönetimi konsepti · Kişisel Mühendislik Projesi · Geliştirme Aşamasında
 
-[English version](README.eng.md)
+[English version](README.md)
 
 ## Proje Özeti
 
